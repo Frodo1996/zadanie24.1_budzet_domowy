@@ -1,8 +1,8 @@
 package org.example;
 
 public enum TransactionType {
-    W("Wydatek"),
-    P("Przychód");
+    EXPENSE("Wydatek"),
+    INCOME("Przychód");
 
     private final String description;
 

@@ -1,8 +1,6 @@
 package org.example;
 
-import java.text.DateFormat;
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Transaction {
     private int id;
